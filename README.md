@@ -52,10 +52,12 @@
 ### 🛡️ CortexGuard
 
 Agentic AI Platform for Cloud Misconfiguration Prevention & DevSecOps Security
+Get a demo : https://cortexguardcloudsecurity.netlify.app/
 
 ### 🌾 Smart Crop Prediction
 
 ML-powered crop recommendation system using weather and soil parameters
+Get a demo : https://unseasonable-rain-crop-advisory-system-model.streamlit.app/
 
 ### 🔍 Financial Anomaly Detection
 
@@ -71,7 +73,7 @@ AI-powered calorie burn prediction and health insights
 
 🏅 SQL (Intermediate) – HackerRank
 
-🏅 Machine Learning Programs
+🏅 Machine Learning Internship Program
 
 🏅 Generative AI Certifications
 
